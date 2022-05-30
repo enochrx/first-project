@@ -187,9 +187,9 @@ if (hasDriversLicense && hasPerfectVision && !isTired) { console.log("Dami can d
 
 
 //Switch Statements
-/*const day = "wednesday"
+const day1 = "wednesday"
 
-switch (day) {
+switch (day1) {
     case "monday":
         console.log("We'll clean up the new space and arrange the house");
         break;
@@ -210,7 +210,7 @@ switch (day) {
         console.log("Wedding is done and over, we're getting our shits back to Lagos");
         break;
 
-}*/
+}
 
 //Using If statement
 const day = "thurday";
