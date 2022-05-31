@@ -78,7 +78,7 @@ const birthYear = 1994
 const year = 2022
 console.log("I'm " + firstName + ', a ' + (year - birthYear) + " years old " + profJob + " and" + " an aspiring " + skilledJob)
 
-//You can smply write a string in JS using backticks without concatenation...
+//You can simply write a string in JS using backticks without concatenation...
 const damilareNew = `I'm ${firstName}, a ${year - birthYear} years old ${profJob} and an aspiring ${skilledJob}`;
 console.log(damilareNew);
 //...or by defining variables first.
